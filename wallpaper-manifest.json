@@ -1,0 +1,96 @@
+[
+  {
+    "file": "backgrounds/01-cabaret-diva.png",
+    "source": "ChatGPT Image Nov 5, 2026, 10_27_01 PM-1.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "a22dadca2060757154f0e93e9117472d194eba2716760d6206592c7743d4015e",
+    "provenance": "User-supplied individual regeneration; original pixels preserved"
+  },
+  {
+    "file": "backgrounds/02-berlin-cathedral.png",
+    "source": "ChatGPT Image Nov 5, 2026, 10_27_13 PM-2.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "5e4a8586f773ebf5eb6c2c2bd82fc6f7f1c2d414836b3c4fd2dcd9563c1e96e3",
+    "provenance": "User-supplied individual regeneration; original pixels preserved"
+  },
+  {
+    "file": "backgrounds/03-rainy-boulevard.png",
+    "source": "ChatGPT Image Nov 5, 2026, 10_27_16 PM-3.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "af24ba7340b5495895bd2e0dbce3818c57338f3b26283acf2738e78ded591757",
+    "provenance": "User-supplied individual regeneration; original pixels preserved"
+  },
+  {
+    "file": "backgrounds/04-golden-cabaret.png",
+    "source": "ChatGPT Image Nov 5, 2026, 10_27_18 PM-4.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "c0dde1e69a5d3c03e642b9b75271777f78376a6706519a465ae9f9a0ad28a537",
+    "provenance": "User-supplied individual regeneration; original pixels preserved"
+  },
+  {
+    "file": "backgrounds/05-midnight-station.png",
+    "source": "ChatGPT Image Nov 5, 2026, 10_27_22 PM-5.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "42684bc4ed3f5685487b1a87c0f2b1b50efe931e9c2bd85e202fd8371609ee6d",
+    "provenance": "User-supplied individual regeneration; original pixels preserved"
+  },
+  {
+    "file": "backgrounds/06-underground-platform.png",
+    "source": "ChatGPT Image Nov 5, 2026, 10_27_27 PM-6.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "bccc939cd3ed465f9ff0fd80b3766d4837cd7e25eb73e4a7f0034a5e8bb321ad",
+    "provenance": "User-supplied individual regeneration; original pixels preserved"
+  },
+  {
+    "file": "backgrounds/07-smoky-jazz.png",
+    "source": "ChatGPT Image Nov 5, 2026, 10_27_29 PM-7.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "a0aaeeae549a9f99bcbd8a962cc0db85f58574a45eb114c399bd72b083fa3d1d",
+    "provenance": "User-supplied individual regeneration; original pixels preserved"
+  },
+  {
+    "file": "backgrounds/08-marquee-mystery.png",
+    "source": "ChatGPT Image Nov 5, 2026, 10_27_33 PM-8.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "b61e48c74c5e3c5f1acfda9478a2d435c21da7915867d7f21483bf71eb958633",
+    "provenance": "User-supplied individual regeneration; original pixels preserved"
+  },
+  {
+    "file": "backgrounds/09-reichstag-night.png",
+    "source": "ChatGPT Image Nov 5, 2026, 10_27_35 PM-9.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "04ec33d531ace4998be495e38ad3ae10c8e3486241a5f5c19bd75007d084615d",
+    "provenance": "User-supplied individual regeneration; original pixels preserved"
+  },
+  {
+    "file": "backgrounds/11-rainy-cafe.png",
+    "source": "ChatGPT Image Nov 5, 2026, 10_27_39 PM-10.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "9647fd10e32ae71d0ae7971df5a17a0a7bf82b7805def5056d6cac5c83d6308f",
+    "provenance": "User-supplied individual regeneration; original pixels preserved"
+  },
+  {
+    "file": "backgrounds/10-detectives-desk.webp",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "eb3fa4a0efee3afbf06799017cc3d76401a749b25f61294c42d35365cbb17a76",
+    "provenance": "Retained older collage-derived upscale, as requested"
+  },
+  {
+    "file": "backgrounds/12-art-deco-staircase.webp",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "ea3d662de28d333730d515041b3a611511ac6c11a1b8e403d28c740b118019f4",
+    "provenance": "Retained older collage-derived upscale, as requested"
+  }
+]

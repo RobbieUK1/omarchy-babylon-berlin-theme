@@ -4,4 +4,4 @@ from https://github.com/RobbieUK1/omarchy-murder-of-crows at commit
 4ded28e4dc942d4a3f5c0d662115e6456e14b55d, also owned by RobbieUK1.
 The shared plugin ID crows.background deliberately preserves compatibility
 with Murder of Crows and Sunny OLED; each theme opts in with its own marker.
-The original Babylon Berlin ZIP artwork, preview and palette are unchanged.
+The palette and integration are unchanged. Ten wallpapers were replaced with user-supplied individually regenerated PNGs on 2026-11-05; the desk and staircase remain from the original ZIP. Preview rebuilt from the release images. See wallpaper-manifest.json.

@@ -1,6 +1,6 @@
 # Babylon Berlin — Omarchy theme
 
-## Install — one line
+## Install or upgrade — one line
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/RobbieUK1/omarchy-babylon-berlin-theme/main/install.sh | bash
@@ -14,7 +14,11 @@ A fan-made 1920s Berlin noir / Art Deco theme, unaffiliated with the television 
 
 ## Twelve wallpapers
 
-All twelve images are **3840 × 2160 (16:9)**. They originated as parts of a generated collage and were upscaled to these dimensions; they are not native-detail 4K renders. This publication preserves the supplied ZIP's artwork, palette and preview.
+Ten individually regenerated wallpapers replace the old collage crops. Their actual resolution is **1672 × 941**, approximately 16:9 (not Full HD or native 4K). They are included as original PNGs without resizing or cropping. Large displays will still scale them.
+
+The requested typewriter/desk and Art Deco staircase wallpapers are retained at **3840 × 2160**; these two are older collage-derived upscales. Palette, application integration and shared per-monitor randomizer are unchanged. See `wallpaper-manifest.json` for source names, dimensions and SHA-256 checksums.
+
+The command above also upgrades an existing installation, backing up the previous theme first. User-added backgrounds in the separate Omarchy backgrounds directory are retained.
 
 ## Wallpaper picker and multiple monitors
 
