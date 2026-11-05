@@ -8,15 +8,15 @@ curl -fsSL https://raw.githubusercontent.com/RobbieUK1/omarchy-babylon-berlin-th
 
 Installs and applies the complete theme, including the **integrated multi-monitor wallpaper randomizer**. Requires Omarchy's Quickshell background renderer, Python 3, Git and curl. The installer checks the installed renderer source before making changes and stops on unsupported versions or conflicting custom renderers. Legacy swaybg-only releases are unsupported.
 
-![Twelve wallpaper previews](preview.png)
+![Ten wallpaper previews](preview.png)
 
 A fan-made 1920s Berlin noir / Art Deco theme, unaffiliated with the television production. The supplied palette combines near-black backgrounds, true-black deepest surfaces, antique gold, burgundy, jade and smoky blue accents.
 
-## Twelve wallpapers
+## Ten wallpapers
 
 Ten individually regenerated wallpapers replace the old collage crops. Their actual resolution is **1672 × 941**, approximately 16:9 (not Full HD or native 4K). They are included as original PNGs without resizing or cropping. Large displays will still scale them.
 
-The requested typewriter/desk and Art Deco staircase wallpapers are retained at **3840 × 2160**; these two are older collage-derived upscales. Palette, application integration and shared per-monitor randomizer are unchanged. See `wallpaper-manifest.json` for source names, dimensions and SHA-256 checksums.
+Palette, application integration and shared per-monitor randomizer are unchanged. See `wallpaper-manifest.json` for source names, dimensions and SHA-256 checksums.
 
 The command above also upgrades an existing installation, backing up the previous theme first. User-added backgrounds in the separate Omarchy backgrounds directory are retained.
 

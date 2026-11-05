@@ -78,19 +78,5 @@
     "height": 941,
     "sha256": "9647fd10e32ae71d0ae7971df5a17a0a7bf82b7805def5056d6cac5c83d6308f",
     "provenance": "User-supplied individual regeneration; original pixels preserved"
-  },
-  {
-    "file": "backgrounds/10-detectives-desk.webp",
-    "width": 3840,
-    "height": 2160,
-    "sha256": "eb3fa4a0efee3afbf06799017cc3d76401a749b25f61294c42d35365cbb17a76",
-    "provenance": "Retained older collage-derived upscale, as requested"
-  },
-  {
-    "file": "backgrounds/12-art-deco-staircase.webp",
-    "width": 3840,
-    "height": 2160,
-    "sha256": "ea3d662de28d333730d515041b3a611511ac6c11a1b8e403d28c740b118019f4",
-    "provenance": "Retained older collage-derived upscale, as requested"
   }
 ]
