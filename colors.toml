@@ -1,0 +1,32 @@
+mode = "dark"
+
+# Babylon Berlin — OLED black, antique brass, velvet red, emerald and midnight blue
+accent = "#e1b66c"
+selection = "#463322"
+muted = "#7c746e"
+
+background = "#09090b"
+dark_background = "#060608"
+darker_background = "#000000"
+lighter_background = "#1b171b"
+
+foreground = "#e9dfce"
+dark_foreground = "#9d9184"
+light_foreground = "#f3e6d0"
+bright_foreground = "#fff2de"
+
+red = "#b84650"
+yellow = "#e1b66c"
+orange = "#dd8b57"
+green = "#78ad8b"
+cyan = "#79afb3"
+blue = "#7895bf"
+magenta = "#b98cae"
+brown = "#a57d61"
+
+bright_red = "#e2707d"
+bright_yellow = "#ffd59a"
+bright_green = "#a3ddba"
+bright_cyan = "#abe1dd"
+bright_blue = "#a9c7f4"
+bright_magenta = "#e4b1d5"
